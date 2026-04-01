@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>筋トレサイエンスラボ</title>
+    <link>https://musclelove-777.github.io/muscle-science-lab</link>
+    <description>科学的根拠に基づく筋トレ・トレーニング情報ブログ</description>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Apr 2026 23:14:42 +0900</lastBuildDate>
+    <atom:link href="https://musclelove-777.github.io/muscle-science-lab/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RIR (Reps In Reserve) で筋肥大を最大化！科学的トレーニングの秘訣</title>
+      <link>https://musclelove-777.github.io/muscle-science-lab/articles/rir-reps-in-reserve-kinhidai-saidaika-kagaku-training.html</link>
+      <guid>https://musclelove-777.github.io/muscle-science-lab/articles/rir-reps-in-reserve-kinhidai-saidaika-kagaku-training.html</guid>
+      <description></description>
+      <category>トレーニングプログラム</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>RIRで筋トレ進化！自己調整トレーニング入門</title>
+      <link>https://musclelove-777.github.io/muscle-science-lab/articles/rir-self-adjustment-training-guide.html</link>
+      <guid>https://musclelove-777.github.io/muscle-science-lab/articles/rir-self-adjustment-training-guide.html</guid>
+      <description></description>
+      <category>トレーニングプログラム</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>筋肥大を最大化！有効レップ数（Effective Reps）徹底解説</title>
+      <link>https://musclelove-777.github.io/muscle-science-lab/articles/kinhida-effective-reps-thorough-explanation.html</link>
+      <guid>https://musclelove-777.github.io/muscle-science-lab/articles/kinhida-effective-reps-thorough-explanation.html</guid>
+      <description></description>
+      <category>筋肥大メカニズム</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
